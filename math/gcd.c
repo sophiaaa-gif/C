@@ -15,3 +15,5 @@ int main()
     scanf("%d %d", &a, &b);
     printf("Greatest common divisor: %d\n", GCD(a, b));
 }
+
+(
